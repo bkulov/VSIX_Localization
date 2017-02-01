@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VsixLanguagePack Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema-lp/2010">
+  <LocalizedName>JP - VSIXProject2</LocalizedName>
+  <LocalizedDescription>JP - Empty VSIX Project.</LocalizedDescription>
+  <MoreInfoUrl> http://www.contoso.com/products/es/ArbolDeFamilia.htm</MoreInfoUrl>
+</VsixLanguagePack>
